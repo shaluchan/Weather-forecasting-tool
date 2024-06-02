@@ -19,4 +19,6 @@ Before running the Weather Tool, ensure you have the following dependencies inst
 You can install these dependencies using pip:
 
 ```bash
-pip install requests colorama pandas
+pip install requests
+pip install colorama
+pip install pandas
